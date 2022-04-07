@@ -8,7 +8,11 @@ body {
 }
 #particles-js {
   /* height: 100vh; */
-  background-color: rgb(24, 141, 150);
+  /* background-color: rgb(24, 141, 150); */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("./images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 /* .head-stick {
   position: sticky;

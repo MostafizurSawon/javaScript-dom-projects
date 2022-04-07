@@ -1,2 +1,2 @@
 # javaScript-dom-projects
-https://mostafizursawon.github.io/javaScript-dom-projects# javaScript-dom-projects
+Live site : https://dom-projects.netlify.app/
